@@ -13,6 +13,24 @@
             "name":"神經元1",
             "key":"2",
             "title":"神經元1",
-            "url":"http://excelramblings.blogspot.com/2015/01/a-year-in-desktop-liberation-blog.html"
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
+        },
+        {
+            "name":"神經元2",
+            "key":"4",
+            "title":"神經元2",
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
+        },
+        {
+            "name":"神經元3",
+            "key":"5",
+            "title":"神經元3",
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
+        },
+        {
+            "name":"神經元4",
+            "key":"6",
+            "title":"神經元4",
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
         }]
 }]
