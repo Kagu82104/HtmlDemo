@@ -4,9 +4,9 @@
     "key":"addons",
     "pages":
     [{
-        "name":"a",
-        "key":"4478459723408930641",
+        "name":"卷積神經網路",
+        "key":"0",
         "title":"卷積神經網路",
-        "url":"http://excelramblings.blogspot.com/2015/01/a-year-in-apps-script-and-my-bucket-list.html"
+        "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
     }]
 }]
