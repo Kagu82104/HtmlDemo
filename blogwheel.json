@@ -8,7 +8,8 @@
         "key":"0",
         "title":"卷積神經網路",
         "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json",
-        {
+    },
+    {
             "name":"javascript",
             "count":197,
             "key":"javascript",
@@ -19,6 +20,5 @@
                 "title":"Running JavaScript directly from Excel makes 'going Google' easier",
                 "url":"http://excelramblings.blogspot.com/2015/06/running-javascript-directly-from-excel.html"
             }]
-        }
     }]
 }]
