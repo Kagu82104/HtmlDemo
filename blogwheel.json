@@ -4,13 +4,10 @@
     "key":"3",
     "pages":[
         {
-            "name":"神經元",
-            "count":2,
-            "key":"3",
-            "pages":[{"name":"神經元8",
-            "key":"8",
-            "title":"神經元8",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"}]
+            "name":"神經元0",
+            "key":"1",
+            "title":"神經元0",
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
         },
         {
             "name":"神經元1",
