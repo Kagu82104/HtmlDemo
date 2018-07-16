@@ -4,46 +4,13 @@
     "key":"3",
     "pages":[
         {
-            "name":"卷積神經網路",
-            "key":"1",
-            "title":"卷積神經網路",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
-        },
-        {
-            "name":"神經元1",
-            "key":"2",
-            "title":"神經元1",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
-        },
-        {
-            "name":"神經元2",
-            "key":"4",
-            "title":"神經元2",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
-        },
-        {
-            "name":"神經元3",
-            "key":"5",
-            "title":"神經元3",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
-        },
-        {
-            "name":"神經元4",
-            "key":"6",
-            "title":"神經元4",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
-        }]
-},
-{
-    "name":"神經元",
-    "count":2,
-    "key":"3",
-    "pages":[
-        {
-            "name":"卷積神經網路",
-            "key":"1",
-            "title":"卷積神經網路",
-            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"
+            "name":"神經元",
+            "count":2,
+            "key":"3",
+            "pages":[{"name":"神經元8",
+            "key":"8",
+            "title":"神經元8",
+            "url":"https://rawgit.com/Kagu82104/HtmlDemo/master/blogwheel.json"}]
         },
         {
             "name":"神經元1",
